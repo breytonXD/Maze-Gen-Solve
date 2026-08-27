@@ -1,5 +1,15 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23950976)
-# COSC2804 Assignment 3: Generating and Solving Mazes
+## Maze Generation and Solver
+Developed a C++ application to generate and solve mazes within Minecraft based on user input,
+utilising object-oriented programming and recursive algorithms. Used automated testing, Makefiles and Valgrind to identify bugs and memory issues. This was done in collaboration with my Classmate Leo.
+
+### Video Explainer:
+
+[![Maze Generation and Solving Demo](https://img.youtube.com/vi/8vfKF13GB6E/maxresdefault.jpg)](https://www.youtube.com/watch?v=8vfKF13GB6E)
+
+## Commits from Previous Repo:
+![alt text](<Screenshot 2026-08-27 at 16-00-13 Commits · RMIT-COSC2804-2026-S1_generating-and-solving-mazes-saturnburger-1.png>)
+
+# Assignment Notification: COSC2804 Assignment 3: Generating and Solving Mazes
 
 <p align="center">
   <img src="imgs/bigmaze.png" width="100%" alt="A large maze rendered in Minecraft">
